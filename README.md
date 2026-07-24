@@ -1,5 +1,5 @@
 # FASTTRANS Trading Sales Dashboard
-
+![Dashboard](Dashboard.png.png)
 ## 📊 Overview
 
 An interactive Sales Dashboard built in Microsoft Excel for analyzing company sales performance.
