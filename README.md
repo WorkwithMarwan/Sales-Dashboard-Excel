@@ -1,4 +1,4 @@
-# FASTTRANS Trading Sales Dashboard
+# 📊 FASTTRANS Trading Sales Dashboard
 ![Dashboard](Dashboard.png.png)
 ## 📊 Overview
 
