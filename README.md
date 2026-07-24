@@ -13,6 +13,12 @@ An interactive Sales Dashboard built in Microsoft Excel for analyzing company sa
 - Slicers
 - KPI Cards
 
+## 📁 Files
+
+- FASTTRANS-Sales-Dashboard.xlsx
+- FASTTRANS-Sales-Dashboard.pdf
+- Dashboard.png
+- 
 ## 📈 Dashboard Features
 
 - Total Sales
